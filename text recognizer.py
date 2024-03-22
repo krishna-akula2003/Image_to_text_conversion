@@ -18,4 +18,3 @@ text = pytesseract.image_to_string(img)
 
 # Print the text
 print(text)
-??displays text from image
