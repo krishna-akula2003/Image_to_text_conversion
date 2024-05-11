@@ -1,1 +1,1 @@
-Image to text conversion using python 
+### basic implemenatation of Image to text conversion using python 
